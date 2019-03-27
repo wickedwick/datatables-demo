@@ -1,0 +1,15 @@
+{
+  "name": "misc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Travis Wickham",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "local-web-server": "^2.6.1"
+  }
+}
